@@ -16,7 +16,7 @@ Computer Engineering Student | AI & ML Enthusiast | Software Developer
 
 ## 🚀 About Me
 
-🎓 Third Year Computer Engineering Student
+🎓 Last Year Computer Engineering Student
 
 🏫 Amrutvahini College of Engineering, Sangamner
 
