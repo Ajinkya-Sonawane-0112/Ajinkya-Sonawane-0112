@@ -24,11 +24,11 @@ Computer Engineering Student | AI & ML Enthusiast | Software Developer
 
 🌱 Currently learning
 
-- Agentic AI
-- LangGraph
-- CrewAI
-- Deep Learning
-- Generative AI
+* Agentic AI
+* LangGraph
+* CrewAI
+* Deep Learning
+* Generative AI
 
 💡 I enjoy solving real-world problems through technology.
 
@@ -45,7 +45,7 @@ Become an AI Engineer & Full Stack Developer while contributing to Open Source.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/ajinkya-sonawane-1594a8294">
+<a href="https://linkedin.com/in/ajinkya-sonawane-1594a829">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -85,37 +85,49 @@ Become an AI Engineer & Full Stack Developer while contributing to Open Source.
 
 ### AI / ML
 
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- OpenCV
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* OpenCV
 
 ---
 
 ## 🚀 Featured Projects
 
-### ❤️ Heart Disease Prediction System
+### 📚 Secondhand Bookselling System
 
-🔹 Machine Learning based disease prediction
+🔹 Full-stack web application for buying and selling second-hand books
 
-🔹 Flask Web Application
+🔹 User registration, login and book listing management
 
-🔹 Real-time prediction using trained model
+🔹 Search and view available books
 
-**Tech:** Python • Flask • Pandas • NumPy • Scikit-learn • Bootstrap
+🔹 Seller and buyer interaction
+
+**Tech:** Python • Django • HTML • CSS • Bootstrap • JavaScript • SQLite
 
 ---
 
-### 🚗 License Plate Recognition System
+### 📧 Spam & Phishing Email Detection System
 
-Automatic Vehicle Number Plate Detection using Computer Vision.
+Machine Learning based system for detecting spam and phishing emails.
 
-**Tech:** Python • OpenCV • MySQL
+🔹 Natural Language Processing for email text analysis
+
+🔹 TF-IDF based feature extraction
+
+🔹 Machine Learning classification
+
+🔹 Real-time email classification
+
+**Tech:** Python • NLTK • TF-IDF • Scikit-learn • Logistic Regression
 
 ---
 
 ### 💰 Explainable Loan Approval Prediction System
+
+🚧 Currently Working On
 
 ✔ Fair AI
 
@@ -127,17 +139,17 @@ Automatic Vehicle Number Plate Detection using Computer Vision.
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 ### Python & Machine Learning Intern
 
 **Sumago Infotech Pvt. Ltd.**
 
-- Python Programming
-- Data Science
-- Machine Learning
-- Model Training
-- Data Analysis
+* Python Programming
+* Data Science
+* Machine Learning
+* Model Training
+* Data Analysis
 
 ---
 
